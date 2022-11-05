@@ -1,0 +1,18 @@
+{
+  "name": "@baijanaththaru/ts-sum",
+  "version": "1.0.0",
+  "description": "A typescript package to get the sum of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-baijanathTharu:baijanathTharu/ts-sum.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Baijanath Tharu",
+  "license": "MIT"
+}
