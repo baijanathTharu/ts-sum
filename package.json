@@ -17,6 +17,7 @@
   "files": [
     "lib/**/*"
   ],
+  "types": "./lib/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git@github.com-baijanathTharu:baijanathTharu/ts-sum.git"
