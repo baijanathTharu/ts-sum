@@ -2,7 +2,7 @@
   "name": "@baijanaththaru/ts-sum",
   "version": "1.0.2",
   "description": "A typescript package to get the sum of numbers",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "vitest",
     "build": "tsc",
