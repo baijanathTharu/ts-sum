@@ -1,6 +1,6 @@
 {
   "name": "@baijanaththaru/ts-sum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A typescript package to get the sum of numbers",
   "main": "index.js",
   "scripts": {
