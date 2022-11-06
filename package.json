@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "A typescript package to get the sum of numbers",
   "main": "lib/index.js",
+  "homepage": "https://github.com/baijanathTharu/ts-sum",
   "scripts": {
     "test": "vitest",
     "build": "tsc",

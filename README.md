@@ -17,5 +17,5 @@ import { sum } from '@baijanaththaru/ts-sum';
 
 const numbers = [10, 20, 30];
 
-const numbersSum = sum(numbers); // 60
+const numbersSum = sum(...numbers); // 60
 ```
